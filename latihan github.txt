@@ -1,3 +1,2 @@
 Latihan github adalah sebuah pembelajaran mengenai version control system
-yang nanti akan digunakan dalam bekerja
 kegunaannya akan sangat penting ketika membuat sebuah project
